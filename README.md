@@ -1,4 +1,6 @@
-# network_collection
+# Network Collection
+Скрипт собирает данные с сетевого оборудования и записывает в файл.
+
 data collection from network equipment
 
 1. Ввод данных осуществляются через консоль.  
